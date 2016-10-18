@@ -30,6 +30,6 @@ worst.hwy <- two.wheel.20.mpg$
 # The vehicle that gets the most hwy miles/gallon of vehicles of that make in that year
 
 
-# What was the most efficient honda model of 1995?
+# What was the most efficient honda model of 1995
 
 
